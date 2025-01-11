@@ -1,6 +1,23 @@
 # OpenUPM
 How to publish package on Open UPM
 
+## Unity3D
+- IID, Index Integer Date Utility:
+  - https://github.com/EloiStree/OpenUPM_IID
+- Key Mapping of keyboard and xbox as integer for play game as remote controller:
+  - https://github.com/EloiStree/OpenUPM_WowInt
+- Unity PushIID Connection:
+  - https://github.com/EloiStree/2025_01_01_ClipboardableAssymentricMetaCoasterUnity3D
+  - https://github.com/EloiStree/2024_08_06_PathTypeReadWrite
+  - https://github.com/EloiStree/2025_01_01_UnityToServerTunnelingMetaMaskWS
+  - https://github.com/EloiStree/2025_01_01_pBit4096B58Pkcs1SHA256
+  - https://github.com/EloiStree/2024_04_04_GenereteRsaKeyInUnity
+
+# Pi Python Server: 
+- Server PushIID:
+  - https://github.com/EloiStree/2025_01_01_HelloMetaMaskPushToIID.git
+---------------- 
+
 https://openupm.com/
 https://openupm.com/packages/?sort=downloads&q=eloistree
 
