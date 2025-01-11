@@ -2,6 +2,14 @@
 
 My aim in taking the time to publish packages on PyPi, Crates, OpenUPM, NPM, and NuGet is to enable IID Multiplayer game servers and IoT. I won't be putting all of my packages on OpenUPM, only those that contribute to this goal.
 
+I need to have:
+- IID: Tool defining what is a IID
+- WowInt: Abstraction of what is keyboard and xbox controller
+- WsMetaMaskCoaster: Tools that allows websocket authentification to server with ETH(RSA) as main or coaster key
+  - See Pi Pythno PushIID 
+- pBit4096B58Pkcs1SHA256 : Allows to make sign and verify RSA compatible in Python and Unity3D.
+
+
 ## Unity3D
 - **IID, Index Integer Date Utility**:
   - [https://github.com/EloiStree/OpenUPM_IID](https://github.com/EloiStree/OpenUPM_IID)
