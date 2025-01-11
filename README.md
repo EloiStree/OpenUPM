@@ -1,20 +1,24 @@
-# OpenUPM
-How to publish package on Open UPM
+
+
+My aim in taking the time to publish packages on PyPi, Crates, OpenUPM, NPM, and NuGet is to enable IID Multiplayer game servers and IoT. I won't be putting all of my packages on OpenUPM, only those that contribute to this goal.
 
 ## Unity3D
-- IID, Index Integer Date Utility:
-  - https://github.com/EloiStree/OpenUPM_IID
-- Key Mapping of keyboard and xbox as integer for play game as remote controller:
-  - https://github.com/EloiStree/OpenUPM_WowInt
-- Unity PushIID Connection:
-  - https://github.com/EloiStree/2025_01_01_UnityToServerTunnelingMetaMaskWS
-    - https://github.com/EloiStree/pypi_pBit4096B58Pkcs1SHA256 for Python
-    - https://github.com/EloiStree/OpenUPM_pBit4096B58Pkcs1SHA256 for Unity3D
-    - https://github.com/EloiStree/2025_01_01_ClipboardableAssymentricMetaCoasterUnity3D.git
-  - https://github.com/EloiStree/2024_08_06_PathTypeReadWrite
-  - https://github.com/EloiStree/2024_04_04_GenereteRsaKeyInUnity
+- **IID, Index Integer Date Utility**:
+  - [https://github.com/EloiStree/OpenUPM_IID](https://github.com/EloiStree/OpenUPM_IID)
+- **Key Mapping of keyboard and Xbox as integers for playing games with a remote controller**:
+  - [https://github.com/EloiStree/OpenUPM_WowInt](https://github.com/EloiStree/OpenUPM_WowInt)
+- **Unity PushIID Connection**:
+  - [https://github.com/EloiStree/2025_01_01_UnityToServerTunnelingMetaMaskWS](https://github.com/EloiStree/2025_01_01_UnityToServerTunnelingMetaMaskWS)
+    - [https://github.com/EloiStree/pypi_pBit4096B58Pkcs1SHA256](https://github.com/EloiStree/pypi_pBit4096B58Pkcs1SHA256) for Python
+    - [https://github.com/EloiStree/OpenUPM_pBit4096B58Pkcs1SHA256](https://github.com/EloiStree/OpenUPM_pBit4096B58Pkcs1SHA256) for Unity3D
+    - [https://github.com/EloiStree/2025_01_01_ClipboardableAssymentricMetaCoasterUnity3D.git](https://github.com/EloiStree/2025_01_01_ClipboardableAssymentricMetaCoasterUnity3D.git)
+  - [https://github.com/EloiStree/2024_08_06_PathTypeReadWrite](https://github.com/EloiStree/2024_08_06_PathTypeReadWrite)
+  - [https://github.com/EloiStree/2024_04_04_GenereteRsaKeyInUnity](https://github.com/EloiStree/2024_04_04_GenereteRsaKeyInUnity)
+
+ -----------
  
- 
+# OpenUPM
+How to publish package on Open UPM
 
 # Pi Python Server: 
 - Server PushIID:
