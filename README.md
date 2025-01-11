@@ -7,11 +7,14 @@ How to publish package on Open UPM
 - Key Mapping of keyboard and xbox as integer for play game as remote controller:
   - https://github.com/EloiStree/OpenUPM_WowInt
 - Unity PushIID Connection:
-  - https://github.com/EloiStree/2025_01_01_ClipboardableAssymentricMetaCoasterUnity3D
-  - https://github.com/EloiStree/2024_08_06_PathTypeReadWrite
   - https://github.com/EloiStree/2025_01_01_UnityToServerTunnelingMetaMaskWS
-  - https://github.com/EloiStree/2025_01_01_pBit4096B58Pkcs1SHA256
+    - https://github.com/EloiStree/pypi_pBit4096B58Pkcs1SHA256 for Python
+    - https://github.com/EloiStree/OpenUPM_pBit4096B58Pkcs1SHA256 for Unity3D
+    - https://github.com/EloiStree/2025_01_01_ClipboardableAssymentricMetaCoasterUnity3D.git
+  - https://github.com/EloiStree/2024_08_06_PathTypeReadWrite
   - https://github.com/EloiStree/2024_04_04_GenereteRsaKeyInUnity
+ 
+ 
 
 # Pi Python Server: 
 - Server PushIID:
