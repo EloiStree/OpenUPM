@@ -1,5 +1,8 @@
 ![image](https://github.com/user-attachments/assets/69114066-08b1-4945-a3d0-569070172824)
 
+`openupm search be.elab`
+
+
 My aim in taking the time to publish packages on PyPi, Crates, OpenUPM, NPM, and NuGet is to enable IID Multiplayer game servers and IoT. I won't be putting all of my packages on OpenUPM, only those that contribute to this goal.
 
 I need to have:
