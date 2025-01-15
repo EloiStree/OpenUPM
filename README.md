@@ -80,6 +80,9 @@ Read about it:
 
 Notify your package here: 
 - [https://openupm.com/packages/add/](https://openupm.com/packages/add/)
-- 
+
+
+# Package manual:
+- https://docs.unity3d.com/6000.1/Documentation/Manual/upm-manifestPkg.html
 
 
