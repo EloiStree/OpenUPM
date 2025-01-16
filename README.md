@@ -48,13 +48,13 @@ https://youtu.be/lZrL0YZ7vAo
 1. Download https://nodejs.org/en/download/  
 ![image](https://github.com/user-attachments/assets/2fa30c01-b7c8-45f2-b9ba-58aab6084fe2)
 
-2. `npm install -g openupm-cli`
-3. Go to your project Unity3D
-4. `openupm search string`
-5. `openupm search eloistree`
-6. `openupm add be.eloistree.jimmyscreamfps`
-6.B. `openupm remove be.eloistree.jimmyscreamfps`
-It will add in `package.json`:
+2. `npm install -g openupm-cli`   
+3. Go to your project Unity3D   
+4. `openupm search string`  
+5. `openupm search eloistree`   
+6. `openupm add be.eloistree.jimmyscreamfps`  
+6.B. `openupm remove be.eloistree.jimmyscreamfps`  
+It will add in `package.json`:  
 ```
  "scopedRegistries": [
     {
@@ -67,22 +67,21 @@ It will add in `package.json`:
 ```
 ![image](https://github.com/user-attachments/assets/e65f26b0-4bc5-4572-ba8e-9e4fa9d7c35c)
 
-Unity Installer install app:
-`C:\Users\elois\AppData\Roaming\Unity\Asset Store-5.x`
+Unity Installer install app:  
+`C:\Users\elois\AppData\Roaming\Unity\Asset Store-5.x`  
 
 # Publish
 
-Publish a package on GitHub compatible with Unity3D.
-Read about it:   
+Publish a package on GitHub compatible with Unity3D.   
+Read about it:     
 - [https://github.com/EloiStree/HelloUnityPackage/wiki](https://github.com/EloiStree/HelloUnityPackage/wiki)
+- Create a version tag release.   
 
-- Create a version tag release.
-
-Notify your package here: 
-- [https://openupm.com/packages/add/](https://openupm.com/packages/add/)
+Notify your package here:   
+- [https://openupm.com/packages/add/](https://openupm.com/packages/add/)  
 
 
-# Package manual:
-- https://docs.unity3d.com/6000.1/Documentation/Manual/upm-manifestPkg.html
+# Package manual:  
+- https://docs.unity3d.com/6000.1/Documentation/Manual/upm-manifestPkg.html  
 
 
